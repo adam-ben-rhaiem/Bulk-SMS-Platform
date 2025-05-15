@@ -1,4 +1,4 @@
-# Bulk SMS Platform - README
+# Bulk SMS Platform 
 
 ## 📌 Project Overview
 This project is a Bulk SMS platform that enables:
