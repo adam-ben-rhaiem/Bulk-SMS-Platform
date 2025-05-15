@@ -5,8 +5,11 @@
 This project is a Bulk SMS platform that enables:
 
 ✅ Smart Scraping – Extract phone numbers from public sources with precision
+
 ✅ AI-Powered Classification – Automatically segment numbers for better targeting
+
 ✅ Free SMS Sending – Launch campaigns without upfront costs
+
 ✅ Higher ROI – Reach the right audience, reduce spam, maximize conversions
 
 ### ✨ Features
