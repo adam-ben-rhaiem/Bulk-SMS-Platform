@@ -4,13 +4,10 @@
 ### 📌 Project Overview
 This project is a Bulk SMS platform that enables:
 
-Phone number scraping from publicly available online sources
-
-Data classification to organize collected phone numbers
-
-Free SMS sending capabilities for marketing campaigns
-
-SMS marketing has become increasingly successful due to its rapid information delivery. While many advertising/marketing SMS platforms exist, accurately targeting the right audience remains a challenge, often leading to unprofitable data volumes.
+✅ Smart Scraping – Extract phone numbers from public sources with precision
+✅ AI-Powered Classification – Automatically segment numbers for better targeting
+✅ Free SMS Sending – Launch campaigns without upfront costs
+✅ Higher ROI – Reach the right audience, reduce spam, maximize conversions
 
 ### ✨ Features
 Web Scraper: Collects phone numbers from various online sources
