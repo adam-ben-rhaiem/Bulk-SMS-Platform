@@ -24,12 +24,12 @@ Targeting Tools: Helps refine recipient lists for better campaign ROI
 Free Tier: Basic SMS sending at no cost
 
 ### 🛠️ Technologies Used
-Backend: Python
+#### Backend: Python
 
-Frontend: React
+#### Frontend: React
 
-Database: PostgreSQL
+#### Database: PostgreSQL
 
-SMS Gateway: Twilio API
+#### SMS Gateway: Twilio API
 
-Web Scraping: BeautifulSoup/Selenium
+#### Web Scraping: BeautifulSoup/Selenium
