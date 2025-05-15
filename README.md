@@ -12,7 +12,6 @@ This project is a Bulk SMS platform that enables:
 ✅ Higher ROI – Reach the right audience, reduce spam, maximize conversions
 
 ## ✨ Features
-
 - Web Scraper: Collects phone numbers from various online sources
 - Data Classifier: Organizes numbers by criteria (geography, carrier, etc.)
 - Bulk SMS Sender: Mass messaging functionality
@@ -27,9 +26,7 @@ This project is a Bulk SMS platform that enables:
 - Web Scraping: 🕷️ BeautifulSoup + Selenium (Dynamic Page Support)
 
 ## 📈 How It Works?
-
 - Scrape numbers from public sources
 - Classify them (location, carrier, etc.)
 - Filter by target audience
 - Send personalized SMS campaigns
-- Track performance & optimize
