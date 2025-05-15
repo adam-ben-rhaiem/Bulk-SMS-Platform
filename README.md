@@ -1,5 +1,7 @@
-Bulk SMS Platform - README
-📌 Project Overview
+## Bulk SMS Platform - README
+
+
+### 📌 Project Overview
 This project is a Bulk SMS platform that enables:
 
 Phone number scraping from publicly available online sources
