@@ -30,3 +30,21 @@ This project is a Bulk SMS platform that enables:
 - Classify them (location, carrier, etc.)
 - Filter by target audience
 - Send personalized SMS campaigns
+
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+Make sure you have the following installed:
+
+- Python 3.8 or higher
+- Git
+- A modern GPU (recommended for training)
+- pip or conda for package management
+
+### 🧰 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Bulk-SMS-Platform.git
+cd Bulk-SMS-Platform
